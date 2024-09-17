@@ -1,0 +1,11 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "W88H9PM3VP.om.ka.driving",
+                "paths": ["/driving/*"]
+            }
+        ]
+    }
+}
