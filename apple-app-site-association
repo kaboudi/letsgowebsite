@@ -3,7 +3,7 @@
         "apps": [],
         "details": [
             {
-                "appID": "W88H9PM3VP.om.ka.driving",
+                "appID": "W88H9PM3VP.com.ka.driving",
                 "paths": ["/driving/*"]
             }
         ]
